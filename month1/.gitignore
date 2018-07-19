@@ -1,3 +1,6 @@
 .mnist
 hw_4/MNIST_data
 hw_4/__pycache__
+.ipynb_checkpoints
+hw_4/.ipynb_checkpoints
+
